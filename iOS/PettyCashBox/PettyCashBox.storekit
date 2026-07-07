@@ -1,0 +1,27 @@
+{
+  "identifier": "PettyCashBox",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "$5.99",
+      "familyShareable": false,
+      "internalID": "1",
+      "localizations": [
+        {
+          "description": "Category tagging and monthly reconciliation report",
+          "displayName": "PettyCashBox Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.pettycashbox.pro",
+      "referenceName": "PettyCashBox Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
