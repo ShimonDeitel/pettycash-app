@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: PettyCashBoxTests
-      - path: PettyCashBox.storekit
     dependencies:
       - target: PettyCashBox
     settings:
